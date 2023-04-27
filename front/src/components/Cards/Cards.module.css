@@ -1,0 +1,26 @@
+.DivCards {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 1em;
+    padding: 1em;
+    flex-wrap: wrap;
+    max-width: 1500px;
+
+}
+
+@media (min-width: 900px){
+    .DivCards{
+        display: flex;
+        justify-content: center;
+        margin-top: 1em;
+        padding: 1em;
+        flex-direction: row;
+        flex-wrap: wrap;
+        }
+    }
+
+@media (min-width: 500px) {
+    
+
+}

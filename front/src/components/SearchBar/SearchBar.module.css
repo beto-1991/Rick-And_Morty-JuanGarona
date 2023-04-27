@@ -1,0 +1,33 @@
+.SearchDiv {
+    text-align: right;
+    padding: 20px;
+}
+
+.Input {
+
+    border-radius: 5px;
+    background-color: white;
+    color: #205E61;
+    height: 30px;
+    margin-right: 5px;
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.Boton {
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    background-color: #3F979B;
+    color: white;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+
+
+.Boton:hover {
+    cursor:pointer;
+    border: 1px solid white;
+    background-color: #205E61;
+}

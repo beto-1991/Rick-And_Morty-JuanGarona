@@ -1,0 +1,10 @@
+.NavDiv {
+    padding: 10px;
+    margin-top: 15px;
+}
+
+.NavItem {
+    margin-right: 10px;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

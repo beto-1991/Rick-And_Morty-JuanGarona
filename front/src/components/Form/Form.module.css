@@ -1,0 +1,66 @@
+.formDiv {
+  background-color: #f9f54b;
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  padding: 50px;
+  margin: auto;
+  border: 1px solid black;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
+
+.formName {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.formButton {
+  font: inherit;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  border: 1px solid #3f979b;
+  color: white;
+  padding: 0.75rem 3.5rem;
+  cursor: pointer;
+  font-size: 1.15rem;
+  border-radius: 10px;
+  margin-top: 30px;
+  background-color: #3f979b;
+}
+
+.warning {
+  border: 2px #f94a29 solid;
+  border-radius: 5px;
+}
+
+.danger {
+  color: #f94a29;
+  font-weight: bold;
+  font-size: 10px;
+  width: 200px;
+}
+
+h1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.formButton:hover {
+  cursor: pointer;
+  background-color: #205e61;
+  border: 1px solid #205e61;
+}
+
+.Inputs {
+  flex: 3;
+  font: inherit;
+  padding: 0.35rem 0.35rem;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.logoImg {
+  width: 200px;
+  margin-bottom: 30px;
+  margin-left: 10px;
+}
